@@ -1,0 +1,15 @@
+/Users/elizavetarevun/Desktop/HomeWork/bin/Debug/net10.0/HomeWork
+/Users/elizavetarevun/Desktop/HomeWork/bin/Debug/net10.0/HomeWork.deps.json
+/Users/elizavetarevun/Desktop/HomeWork/bin/Debug/net10.0/HomeWork.runtimeconfig.json
+/Users/elizavetarevun/Desktop/HomeWork/bin/Debug/net10.0/HomeWork.dll
+/Users/elizavetarevun/Desktop/HomeWork/bin/Debug/net10.0/HomeWork.pdb
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfoInputs.cache
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfo.cs
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.sourcelink.json
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.dll
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/refint/HomeWork.dll
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.pdb
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/HomeWork.genruntimeconfig.cache
+/Users/elizavetarevun/Desktop/HomeWork/obj/Debug/net10.0/ref/HomeWork.dll
